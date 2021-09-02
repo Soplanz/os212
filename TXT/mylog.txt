@@ -2,4 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  10 L03 GitHub related
-
+ZCZC W00  75 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W00  85 L28 SSH, key-gen, winscp
+ZCZC W00 100 L02 ZOOM meetings related
+ZCZC 200  30 L08 AsDos: asking about ssh
