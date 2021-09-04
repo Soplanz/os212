@@ -7,3 +7,4 @@ ZCZC W00  85 L28 SSH, key-gen, winscp
 ZCZC W00 100 L02 ZOOM meetings related (30 Agustus)
 ZCZC W00  30 L08 AsDos: asking about ssh
 ZCZC W00  45 L02 ZOOM meetings (2 September)
+ZCZC W00  30 L06 References/Books/Documents/GSGS related
