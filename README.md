@@ -1,2 +1,4 @@
 # os212
-Repositori Sistem Operasi
+Operating System Repository
+
+# Welcome
