@@ -5,6 +5,4 @@ permalink: /LINKS/
 Operating System Repository by soplanz
 <br><br>
 ### Some Useful Links
-
-*
-*
+1. Nothing
