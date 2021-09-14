@@ -19,3 +19,4 @@ ZCZC W01  50 L23 Linux including tar, etc.
 ZCZC W01 120 L11 Assignment #01
 ZCZC W02  45 L27 GnuPG, key-gen, encrypt/decrypt
 ZCZC W02  45 L12 Assignment #02 (Make myrank.txt while reviewing peer links)
+ZCZC W02 100 L12 Assignment #02 (Read Chapter 16)
