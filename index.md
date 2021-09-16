@@ -1,7 +1,3 @@
----
-permalink: /HOME/
----
-
 # os212
 Operating System Repository by `soplanz`
 
