@@ -22,3 +22,4 @@ ZCZC W02  45 L12 Assignment #02 (Make myrank.txt while reviewing peer links)
 ZCZC W02 100 L12 Assignment #02 (Read Chapter 16)
 ZCZC W02  25 L25 Scripting
 ZCZC W02 145 L12 Assignment #02 (Still chapter 16)
+ZCZC W02  90 L26 C-language
