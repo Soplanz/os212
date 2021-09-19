@@ -23,3 +23,4 @@ ZCZC W02 100 L12 Assignment #02 (Read Chapter 16)
 ZCZC W02  25 L25 Scripting
 ZCZC W02 145 L12 Assignment #02 (Still chapter 16)
 ZCZC W02  90 L26 C-language
+ZCZC W02  85 L12 Assignment #02 (Read OSC chapter 17)
