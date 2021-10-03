@@ -33,3 +33,5 @@ ZCZC W04  60 L02 ZOOM meetings (27 September)
 ZCZC W04  30 L13 Assignment #03 (Make w04 tar and submit to github)
 ZCZC W04  10 L28 SSH
 ZCZC W04   5 L03 GitHub Related
+ZCZC W04  60 L26 C-language
+ZCZC W04 120 L14 Assignment #04
