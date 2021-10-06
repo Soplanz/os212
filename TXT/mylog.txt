@@ -38,3 +38,4 @@ ZCZC W04 120 L14 Assignment #04
 ZCZC W05  60 L15 Assignment #05
 ZCZC W05  20 L22 Quiz
 ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  10 L06 References/Books/Documents/GSGS related
