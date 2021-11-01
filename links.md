@@ -13,11 +13,14 @@ Operating System Repository by `soplanz`
 4. [LFS 10.0](https://www.youtube.com/watch?v=lME57Z_lybU&list=PLyc5xVO2uDsD3DrDJB5LrTdCadiqr2HCp) => Linux from scratch if you are interested on how to make linux from scratch.
 5. [grep cheatsheet](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php) => useful cheatsheet for grep command. 
 
-##WEEK 05
+WEEK 05
 1. [Page replacement algorithm](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) => Page replacement algo description by geeksforgeeks.
 2. [Page table calculation](https://www.javatpoint.com/os-page-table-size#:~:text=Number%20of%20bits%20in%20a,X%201%20Byte%20%3D%204%20KB) => Page number calculation size, etc.
 
-##WEEK 06
+WEEK 06
 1. [Multiple fork statement](https://www.youtube.com/watch?v=94URLRsjqMQ) => Clear explanation on multiple fork system.
 2. [Operation on process: Process Termination](https://www.youtube.com/watch?v=SFc3jt8t5rU) => Process termination explanation.
 3. [Operation on process: Process Creation](https://www.youtube.com/watch?v=pSW9d3Oaie8) => Process creation explanation. 
+
+WEEK 07
+1. 
