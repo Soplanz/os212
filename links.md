@@ -23,4 +23,5 @@ WEEK 06
 3. [Operation on process: Process Creation](https://www.youtube.com/watch?v=pSW9d3Oaie8) => Process creation explanation. 
 
 WEEK 07
-1. 
+1. [Sychronization: Operating System](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=RDCMUCQYMhOMi_Cdj1CEAU-fv80A&index=1) => Basic concept of why we need sychronization.
+2. [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE&list=RDCMUCQYMhOMi_Cdj1CEAU-fv80A&index=3) => Explain the type and use of semaphores mechanism. 
