@@ -27,4 +27,7 @@ WEEK 07
 2. [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE&list=RDCMUCQYMhOMi_Cdj1CEAU-fv80A&index=3) => Explain the type and use of semaphores mechanism.
 
 WEEK 08
-1  [Scheduling in operating system](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) => Scheduling algorithm 
+1  [Scheduling in operating system](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) => Scheduling algorithm
+
+WEEK 09
+1  [RAID in operating system](https://www.javatpoint.com/what-is-raid) => want to know more about RAID.
